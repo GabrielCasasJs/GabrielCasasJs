@@ -17,8 +17,8 @@ Obsessed with performance and clean code.
 
 ## Skills
 
-![HTML](https://img.shields.io/badge/Html-FF0000?logo=html&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/Css-314ce100?logo=css&logoColor=blue&style=for-the-badge)
+![HTML](https://img.shields.io/badge/Html-F5792A?logo=html&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/Css-51A2DA?logo=css&logoColor=blue&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
